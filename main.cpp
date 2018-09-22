@@ -46,7 +46,7 @@ int main(){
             bombas[i]->setTurno();
             if(bombas[i]->getTurno()==0){
                 cout<<"Exploto"<<endl;
-                matriz[bombas[i]->getFilas()][bombas[i]->getColumnas()] == NULL;
+                //matriz[bombas[i]->getFilas()][bombas[i]->getColumnas()] == NULL;
             }
         }
         string movimiento;
